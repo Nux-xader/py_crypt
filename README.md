@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Py_Crypt</title>
+
 </head>
 <body>
 <h1>Py Crypt</h1>
